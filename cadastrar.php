@@ -1,5 +1,4 @@
 <?php
-// Cadastro com erros de sintaxe e falta de validação
 include("conexao.php");
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
