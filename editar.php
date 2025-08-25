@@ -21,4 +21,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     Nome: <input type="text" name="nome" value="<?= $dado['nome'] ?>"><br>
     Email: <input type="email" name="email" value="<?= $dado['email'] ?>"><br>
     <input type="submit" value="Salvar">
+</form>put type="email" name="email" value="<?= $dado['email'] ?>"><br>
+    <input type="submit" value="Salvar">
 </form>
